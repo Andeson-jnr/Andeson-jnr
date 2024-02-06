@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andeson-jnr
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on this platform
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning Software engineering with ALX
+- 💞️ I’m looking for an internship to start my career
 - 📫 How to reach me https:whatsapp.com/biz
 
 <!---
